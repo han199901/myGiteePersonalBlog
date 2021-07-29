@@ -50,7 +50,7 @@ tags: macOS
   ##
   127.0.0.1	localhost lyxdeMacBook-Pro.local
   255.255.255.255	broadcasthost
-  ::1	localhost lyxdeMacBook-Pro.local
+  ::1	localhost HandeMacBook-Air.local # 'HandeMacBook-Air.local'  替换为你的主机名
   ```
 
 - `lyxdeMacBook-Pro.local`即是前边复制下的主机名
